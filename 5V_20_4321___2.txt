@@ -1,0 +1,11 @@
+5
+a b 15
+a c 5
+a d 18
+a e 12
+b c 12
+b d 19
+b e 3
+c d 9
+c e 10
+d e 20

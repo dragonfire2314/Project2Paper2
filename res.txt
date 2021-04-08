@@ -1,0 +1,707 @@
+5V Set
+ 
+ 
+5V 0
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+a - c
+e - d
+b - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+a - c
+e - d
+b - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+a - c
+e - d
+b - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+a - c
+e - d
+b - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+a - c
+e - d
+b - e
+Time elapsed: 13 microseconds
+ 
+5V 1
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+c - b
+e - c
+b - d
+a - e
+Time elapsed: 13 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+c - b
+e - c
+b - d
+a - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+c - b
+e - c
+b - d
+a - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+c - b
+e - c
+b - d
+a - e
+Time elapsed: 11 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+c - b
+e - c
+b - d
+a - e
+Time elapsed: 11 microseconds
+ 
+5V 2
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+a - c
+c - d
+c - e
+Time elapsed: 13 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+a - c
+c - d
+c - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+a - c
+c - d
+c - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+a - c
+c - d
+c - e
+Time elapsed: 11 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+a - c
+c - d
+c - e
+Time elapsed: 15 microseconds
+ 
+5V 3
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+b - d
+d - e
+Time elapsed: 14 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+b - d
+d - e
+Time elapsed: 13 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+b - d
+d - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+b - d
+d - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+b - d
+d - e
+Time elapsed: 13 microseconds
+ 
+5V 4
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+d - c
+a - d
+c - e
+Time elapsed: 13 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+d - c
+a - d
+c - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+d - c
+a - d
+c - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+d - c
+a - d
+c - e
+Time elapsed: 12 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+d - c
+a - d
+c - e
+Time elapsed: 11 microseconds
+ 
+ 
+7V Set
+ 
+ 
+ 
+7V 0
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+c - d
+c - e
+g - f
+b - g
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+c - d
+c - e
+g - f
+b - g
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+c - d
+c - e
+g - f
+b - g
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+c - d
+c - e
+g - f
+b - g
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+c - d
+c - e
+g - f
+b - g
+Time elapsed: 17 microseconds
+ 
+7V 1
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+e - c
+g - d
+g - e
+c - f
+a - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+e - c
+g - d
+g - e
+c - f
+a - g
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+e - c
+g - d
+g - e
+c - f
+a - g
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+e - c
+g - d
+g - e
+c - f
+a - g
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+e - c
+g - d
+g - e
+c - f
+a - g
+Time elapsed: 15 microseconds
+ 
+7V 2
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+f - c
+e - d
+a - e
+g - f
+e - g
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+f - c
+e - d
+a - e
+g - f
+e - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+f - c
+e - d
+a - e
+g - f
+e - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+f - c
+e - d
+a - e
+g - f
+e - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+f - c
+e - d
+a - e
+g - f
+e - g
+Time elapsed: 16 microseconds
+ 
+7V 3
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+f - b
+f - c
+a - d
+d - e
+e - f
+f - g
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+f - b
+f - c
+a - d
+d - e
+e - f
+f - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+f - b
+f - c
+a - d
+d - e
+e - f
+f - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+f - b
+f - c
+a - d
+d - e
+e - f
+f - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+f - b
+f - c
+a - d
+d - e
+e - f
+f - g
+Time elapsed: 16 microseconds
+ 
+7V 4
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+c - d
+c - e
+e - f
+c - g
+Time elapsed: 17 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+c - d
+c - e
+e - f
+c - g
+Time elapsed: 15 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+c - d
+c - e
+e - f
+c - g
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+c - d
+c - e
+e - f
+c - g
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+b - c
+c - d
+c - e
+e - f
+c - g
+Time elapsed: 14 microseconds
+ 
+ 
+8V Set
+ 
+ 
+ 
+8V 0
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+d - b
+b - c
+a - d
+b - e
+c - f
+a - g
+c - h
+Time elapsed: 21 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+d - b
+b - c
+a - d
+b - e
+c - f
+a - g
+c - h
+Time elapsed: 21 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+d - b
+b - c
+a - d
+b - e
+c - f
+a - g
+c - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+d - b
+b - c
+a - d
+b - e
+c - f
+a - g
+c - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+d - b
+b - c
+a - d
+b - e
+c - f
+a - g
+c - h
+Time elapsed: 21 microseconds
+ 
+8V 1
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+a - d
+d - e
+b - f
+b - g
+g - h
+Time elapsed: 21 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+a - d
+d - e
+b - f
+b - g
+g - h
+Time elapsed: 20 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+a - d
+d - e
+b - f
+b - g
+g - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+a - d
+d - e
+b - f
+b - g
+g - h
+Time elapsed: 20 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+g - c
+a - d
+d - e
+b - f
+b - g
+g - h
+Time elapsed: 18 microseconds
+ 
+8V 2
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+d - c
+a - d
+a - e
+c - f
+c - g
+d - h
+Time elapsed: 20 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+d - c
+a - d
+a - e
+c - f
+c - g
+d - h
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+d - c
+a - d
+a - e
+c - f
+c - g
+d - h
+Time elapsed: 21 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+d - c
+a - d
+a - e
+c - f
+c - g
+d - h
+Time elapsed: 18 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+g - b
+d - c
+a - d
+a - e
+c - f
+c - g
+d - h
+Time elapsed: 17 microseconds
+ 
+8V 3
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+d - c
+a - d
+a - e
+c - f
+a - g
+d - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+d - c
+a - d
+a - e
+c - f
+a - g
+d - h
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+d - c
+a - d
+a - e
+c - f
+a - g
+d - h
+Time elapsed: 16 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+d - c
+a - d
+a - e
+c - f
+a - g
+d - h
+Time elapsed: 15 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+a - b
+d - c
+a - d
+a - e
+c - f
+a - g
+d - h
+Time elapsed: 15 microseconds
+ 
+8V 4
+ 
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+h - c
+f - d
+a - e
+a - f
+c - g
+f - h
+Time elapsed: 21 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+h - c
+f - d
+a - e
+a - f
+c - g
+f - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+h - c
+f - d
+a - e
+a - f
+c - g
+f - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+h - c
+f - d
+a - e
+a - f
+c - g
+f - h
+Time elapsed: 19 microseconds
+Enter all starting vertices, to stop input -1.
+Run 0, starting vertex a
+e - b
+h - c
+f - d
+a - e
+a - f
+c - g
+f - h
+Time elapsed: 19 microseconds
